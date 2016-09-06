@@ -19,6 +19,12 @@ h1 {
   color: white;
   padding:5px;
   float:right;
+  border-left: solid 2px black;
+  border-bottom: solid 2px black;
+}
+
+.section-container {
+  border: solid 2px black;
 }
 
 .section-content {
